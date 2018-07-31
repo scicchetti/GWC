@@ -1,0 +1,9 @@
+number=45
+tries=0
+
+guess = int(input("what number is it?"))
+
+for tries in range(46, 100)
+  print"lower"
+for tries in range (0, 44)
+    print"higher"
